@@ -1,12 +1,11 @@
 # SMART_BOT_JS
 
-# Instructions
-
+# Description
 In this project,I will create A single-page application (SPA) this app with multiple APIs use dialogflow api and giphy api 
 with function change background Color.
 
 ## what is the dialogflow?
-it's a wonderful tool for creating chat BOTS provided by Google :)it's completely free.
+It's a wonderful tool for creating chat BOTS provided by Google :)it's completely free.
 
 ### Step 0
 
