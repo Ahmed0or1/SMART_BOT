@@ -16,6 +16,7 @@ Go to the path, open the command line
 Type the command
 ### Step 2
 ## what is the giphy?
+search engine that allows users to search for and share short looping videos with no sound
 ### Step 0
 
 ### Step 1
