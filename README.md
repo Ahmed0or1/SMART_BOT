@@ -1,1 +1,2 @@
-# SMART_BOT
+# SMART_BOT_JS
+
