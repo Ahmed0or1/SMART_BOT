@@ -29,5 +29,5 @@ search engine that allows users to search for and share short looping videos wit
 Connect the platform with Firebase databases and save all chat.
 
 ## Resources
-[google](https://github.com/googleapis/nodejs-dialogflow)
-[dialogflow docs](https://dialogflow.com/docs)
+1-[google](https://github.com/googleapis/nodejs-dialogflow)
+2-[dialogflow docs](https://dialogflow.com/docs)
