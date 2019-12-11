@@ -12,7 +12,7 @@ It's a wonderful tool for creating chat BOTS provided by Google :)it's completel
 ### Step 0
 
 Use this reference [provided by Google ](https://github.com/googleapis/nodejs-dialogflow)
-You should download all files :() Deleted files will appear in the pictures. Don't worry, I will learn you how to retrieve your API
+You should download all files :() Deleted files will appear in the pictures. Don't worry, I will learn you how to create your API
 <br><img src="image/files.PNG" >
 ### Step 1
 Go to the path, open the command line
