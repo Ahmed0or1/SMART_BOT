@@ -1,6 +1,6 @@
 # Misk Academy - General Assembly
 ## Final Project<br>
-<img src="/SMART_BOT/css/background.gif" height="200" width="200"><br>
+<img src="/SMART_BOT/css/background.gif" height="600" width="600"><br>
 # SMART_BOT_JS <br>
 <img src="Capture.PNG" ><br>
 
