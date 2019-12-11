@@ -57,8 +57,8 @@ search engine that allows users to search for and share short looping videos wit
 #### Don't worry you can use my API :)
 
 ## Next Step
-Connect the platform with Firebase databases and save all chat.
-
+1- Connect the platform with Firebase databases and save all chat.
+2- Increase bot intelligence.
 ## Resources
 1-[google](https://github.com/googleapis/nodejs-dialogflow) <br>
 2-[dialogflow docs](https://dialogflow.com/docs)
