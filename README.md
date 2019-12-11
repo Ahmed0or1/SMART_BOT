@@ -1,5 +1,6 @@
 # SMART_BOT_JS
 <img src="Capture.PNG" >
+
 # Description
 
 In this project,I will create A single-page application (SPA) this app with multiple APIs use dialogflow api and giphy api 
