@@ -33,8 +33,8 @@ New go to [dialogflow](https://dialogflow.com)
 <br><img src="image/dialogflow/3.png" ><br>
 ## what is the giphy?
 search engine that allows users to search for and share short looping videos with no sound
-[giphy](https://giphy.com)
-### Don't worry you can use my API :)
+<br>[giphy](https://giphy.com)<br>
+#### Don't worry you can use my API :)
 
 ## Next Step
 Connect the platform with Firebase databases and save all chat.
