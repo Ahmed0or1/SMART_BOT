@@ -42,9 +42,9 @@ npm install uuid express body-parser
 ### Step 2
 New go to [dialogflow](https://dialogflow.com)
 <br><img src="image/dialogflow/3.png" ><br>
-<br><img src="image/dialogflow/4.PNG" ><br>
-new Let's learn Bot some of the responses :)
-<br><img src="image/dialogflow/5.PNG" ><br>
+<br><img src="image/dialogflow/4.PNG" ><br><br>
+new Let's learn Bot some of the responses :)<br>
+<br><img src="image/dialogflow/5.PNG" ><br><br>
 Finally let's take ِAPI form goole:(
 
 
