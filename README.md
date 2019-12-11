@@ -6,9 +6,10 @@
 <p align="center">
   <img width="600" height="600" src="/SMART_BOT/css/background.gif">
 </p>
-
+You can try the chatbot by webpage
 [CHAT_BOT](https://console.dialogflow.com/api-client/demo/embedded/a99599b2-15b0-4c20-a9a7-6da6838416c4)<br>
 
+or by Telegram app
 # Description
 
 In this project,I will create A single-page application (SPA) this app with multiple APIs use dialogflow api and giphy api 
