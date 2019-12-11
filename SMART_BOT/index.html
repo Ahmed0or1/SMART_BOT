@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en" >
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+
+  <title>SMART BOT</title>
+  
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css">
+  <link rel='stylesheet' href='https://fonts.googleapis.com/css?family=Open+Sans'>
+  <link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/malihu-custom-scrollbar-plugin/3.1.3/jquery.mCustomScrollbar.min.css'>
+   <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
+  <link rel="stylesheet" href="css/style.css">
+  <!-- colorPicker -->
+
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/normalize/3.0.3/normalize.min.css" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Roboto:500,300,400" rel="stylesheet">
+<!-- add a browser tab icon  -->
+<link rel="icon" href="css/bot.ico">
+</head>
+
+<body>
+  <div class="jumbotron jumbotron-fluid text-center">
+    <!-- https://getbootstrap.com/docs/4.0/components/jumbotron/  -->
+    <img src="css/background.gif" width="650" height="610" alt=""/> 
+    <h4>Copyright &copy; 2019 &middot; Ahmed Alghamdi &middot; <a href="https://github.com/Ahmed0or1" >github</a></h4>
+      </div>
+   
+              <!-- <iframe
+                        allow="microphone;"
+                        width="350"
+                        height="330"
+                        src="https://console.dialogflow.com/api-client/demo/embedded/a99599b2-15b0-4c20-a9a7-6da6838416c4">
+              </iframe> -->
+  
+        <!-- 1-  chat -->
+<div class="chat">
+  <!-- [ Search GIF ] API -->
+  <button class="Search-GIF" id="getGIF">GIF</button>
+  <input class="Search-GIF-Input" type="text" id="GIF" value="" placeholder="Search GIF ^_^" >
+
+  <div class="chat-title">
+    <h1>Smart BOt</h1>
+    <h2>for Learn JavaScript and more.</h2>
+    <figure class="avatar">
+      <img class="bot-icon" src="css/bot.gif"/></figure>
+      <img class="user-icon" src="css/chat-icon.gif"/>
+      <img class="box-icon" src="css/BOX.gif"/>
+    
+      
+  </div>
+  <div class="messages" id="messages">
+<!-- 2-  messages content here -->
+    <div class="messages-content"><br></div>
+  </div>
+<!-- 3- message-box -->
+  <form class="message-box" id="mymsg" method="POST">
+    <input type="text" id="MSG" name="MSG" class="message-input" placeholder="Type message..." >
+  
+    <i class="fas fa-microphone" id="start-record-btn"></i>
+    <button type="submit" class="message-submit">Send</button>
+  <!-- 4-  colorPicker -->
+  <div class=colorpicker> 
+  <input type="color" class="colorpicker1" id="colorpicker1" value="#ff3434" style="width:4%;">
+  <input type="color" class="colorpicker2" id="colorpicker2" value="#e9ff00" style="width:4%;">
+  
+  <input type='button' value='change' id="colorpickerch" class='btn-danger'>
+  </div>
+
+  </form>
+  <h3 class="no-browser-support" hidden>Sorry, Your Browser Doesn't Support the Web Speech API. Try Opening This Demo In Google Chrome.</h3>
+</div>
+
+<div id="myModal" class="modal fade gifmodal" role="dialog">
+    <div class="modal-dialog">
+  
+      <!-- Modal content-->
+      <div class="modal-content">
+          <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+        <div class="modal-header">
+          <!-- <button type="button" class="close" data-dismiss="modal">&times;</button> -->
+          <!-- <h4 class="modal-title">Modal Header</h4> -->
+        </div>
+        <div class="modal-body">
+          
+        </div>
+      </div>
+  
+    </div>
+  </div>
+<!-- <div class="bg" id="bg"></div> -->
+  <link href="css/bootstrap.css" rel="stylesheet"> 
+  <script src='js/jquery.min.js'></script>
+  <script src="js/bootstrap.min.js"></script>
+  <script src='https://cdnjs.cloudflare.com/ajax/libs/malihu-custom-scrollbar-plugin/3.1.3/jquery.mCustomScrollbar.concat.min.js'></script>
+  <script  src="js/Search-GIF.js"></script>
+  <script  src="js/index.js"></script>
+  <script  src="app.js"></script>
+   <!-- colorPicker --> 
+   <script src="js/colorPicker.js"></script>
+</body>
+
+</html>
