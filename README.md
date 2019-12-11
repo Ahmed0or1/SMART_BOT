@@ -1,6 +1,7 @@
 
-   # Misk Academy - General Assembly
-## Final Project<br>
+   # (Misk Academy,General Assembly).## Final Project({
+   console.log(String.fromCharCode(65,104,109,101,100,"",65,108,103,104,97,109,100,105));
+   ## }<br>
 # SMART_BOT_JS <br>
 <p align="center">
   <img width="600" height="600" src="/SMART_BOT/css/background.gif">
