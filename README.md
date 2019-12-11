@@ -43,9 +43,9 @@ npm install uuid express body-parser
 New go to [dialogflow](https://dialogflow.com)
 <br><img src="image/dialogflow/3.png" ><br>
 <br><img src="image/dialogflow/4.PNG" ><br><br>
-##new Let's learn Bot some of the responses :)<br>
+## new Let's learn Bot some of the responses :)<br>
 <br><img src="image/dialogflow/5.PNG" ><br><br>
-##Finally let's take ِAPI form goole.
+## Finally let's take ِAPI form goole.
 
 
 than open this link for get api.[console.cloud.google](https://console.cloud.google.com/apis/credentials?project)
