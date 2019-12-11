@@ -20,7 +20,14 @@ Type the command
 ```bash
 npm init
 ```
-<br><img src="image/dialogflow/1.png" >
+<br><img src="image/dialogflow/1.png" ><br>
+<br>
+Thumbs up ,the second command
+```bash
+npm install uuid express body-parser
+```
+<br><img src="image/dialogflow/2.png" ><br>
+
 ### Step 2
 ## what is the giphy?
 search engine that allows users to search for and share short looping videos with no sound
