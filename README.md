@@ -37,8 +37,8 @@ npm install uuid express body-parser
 ### Step 2
 New go to [dialogflow](https://dialogflow.com)
 <br><img src="image/dialogflow/3.png" ><br>
-<br><img src="image/dialogflow/4.png" ><br>
-<br><img src="image/dialogflow/5.png" ><br>
+<br><img src="image/dialogflow/4.PNG" ><br>
+<br><img src="image/dialogflow/5.PNG" ><br>
 
 open this link for get api.[console.cloud.google](https://console.cloud.google.com/apis/credentials?project)
 
