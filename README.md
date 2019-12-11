@@ -14,7 +14,7 @@ or by [Telegram app](https://t.me/Chatahmgh0_bot)<br>
 
 # Description
 
-In this project,I will create A single-page application (SPA) this app with multiple APIs use dialogflow api and giphy api 
+In this project , I will create A single-page application (SPA) this app with multiple APIs use dialogflow api and giphy api 
 with function change background Color.
 <img src="Capture.PNG" ><br>
 ## what is the dialogflow?
